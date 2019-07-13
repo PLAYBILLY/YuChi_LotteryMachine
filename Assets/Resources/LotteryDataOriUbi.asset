@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7694240d2d1fdb8449a8368dd92d8f04, type: 3}
+  m_Name: LotteryDataOriUbi
+  m_EditorClassIdentifier: 
+  DataName: IndieSpace2018
+  Length: 12
+  ItemName:
+  - "Wargaming\u6C23\u7403"
+  - "IndieSpace\u5FBD\u7AE0"
+  - Line T-shirt
+  - "Line\u624B\u93E1"
+  - "Unity\u5DE8\u578B\u6ED1\u9F20\u588A"
+  - "Unity\u5169\u7528\u6795\u6BEF"
+  - "Unity\u62C9\u5F48\u624B\u6A5F\u6263"
+  - "Unity\u68D2\u7403\u5E3D"
+  - "Unity\u98A8\u8863"
+  - "\u96D9\u590F\u79AE\u7269"
+  - "\u8C6C\u5E03\u5076"
+  - "MIS\u9838\u6795"
+  ItemAmount: f4010000c8000000640000001400000028000000460000003700000052000000580000002c0000007b00000033000000
+  ItemOriAmount: f4010000c8000000640000001400000028000000460000003700000052000000580000002c0000007b00000033000000
