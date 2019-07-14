@@ -55,4 +55,4 @@ Unity3D 2018.3.3f1 C#
 [Simple UI](https://assetstore.unity.com/packages/2d/gui/icons/simple-ui-103969)  
 [Odin - Inspector and Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)  
 使用字型：[台北黑體](https://sites.google.com/view/jtfoundry/)  
-IndieSpace素材皆為原作者[5a](https://www.facebook.com/tppraaaaa)、[李毛球](https://www.facebook.com/lunlun13)所有
+IndieSpace素材皆為原作者[Jim Chen](https://www.facebook.com/tppraaaaa)、[李毛球](https://www.facebook.com/lunlun13)所有
