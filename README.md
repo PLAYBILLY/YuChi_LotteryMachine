@@ -49,8 +49,10 @@ Start進入下一畫面；Exit關閉應用程式
 ### 專案工具：  
 Unity3D 2018.3.3f1 C#  
 
-### 使用插件：  
+### 外部資源：  
 [DOTween (HOTween v2)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)  
 [Quick Save](https://assetstore.unity.com/packages/tools/integration/quick-save-107676)  
 [Simple UI](https://assetstore.unity.com/packages/2d/gui/icons/simple-ui-103969)  
-[Odin - Inspector and Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)
+[Odin - Inspector and Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)  
+使用字型：[台北黑體](https://sites.google.com/view/jtfoundry/)  
+IndieSpace素材皆為原作者[5a](https://www.facebook.com/tppraaaaa)、[李毛球](https://www.facebook.com/lunlun13)所有
