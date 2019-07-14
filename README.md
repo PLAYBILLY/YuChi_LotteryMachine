@@ -2,6 +2,8 @@
 |---|---
 |E-mail|playbilly358@gmail.com
 
+![](https://i.imgur.com/vghhFxn.png)
+
 ### 專案介紹：  
 YuChi_LotteryMachine是一個基於C#語言開發的專案，它是為每年的《Indie Space》需要使用抽獎機，而產生的客製化抽獎機專案。尚有版本更新前的垃圾舊code，該專案將會持續更新。學習分享用，請勿營利。
 
