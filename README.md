@@ -44,5 +44,5 @@ Unity3D 2018.3.3f1 C#
 使用插件：  
 [DOTween (HOTween v2)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)  
 [Quick Save](https://assetstore.unity.com/packages/tools/integration/quick-save-107676)  
-[Resource Vector Graphics](https://assetstore.unity.com/packages/2d/gui/icons/resource-vector-graphics-101998)  
+[Simple UI](https://assetstore.unity.com/packages/2d/gui/icons/simple-ui-103969)  
 [Odin - Inspector and Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)
