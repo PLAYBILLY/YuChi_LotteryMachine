@@ -30,8 +30,8 @@ Start進入下一畫面；Exit關閉應用程式
 |K|按住解鎖抽獎鈕(防止遊客誤觸)
 |L|按住解鎖彈出畫面的關閉功能(防止遊客誤觸)
 |Escape|跳轉至主選單
-![](https://i.imgur.com/JCrwXQg.png)
-![](https://i.imgur.com/v2tOhcy.png)
+
+![](https://i.imgur.com/Z44TgN5.gif)
 
 5.獎項數量頁面  
 本頁面可以確認獎項數量、剩餘數量、重置數量紀錄。剩餘數量預設關閉，避免給遊客看到。
